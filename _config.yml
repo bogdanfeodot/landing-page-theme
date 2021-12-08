@@ -27,11 +27,11 @@ permalink: pretty
 social:
   - title: twitter
     url: https://twitter.com/
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
     url: https://Linkedin.com
   - title: facebook
     url: https://facebook.com
+  - title: email
+    mailto: mail@domain.com
     
     
